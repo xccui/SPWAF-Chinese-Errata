@@ -8,6 +8,9 @@
 |前言|3|第14行|拼写|示例*CD-ROW*|示例**CD-ROM**|Fanxi|
 |前言|3|第17行|拼写|通常包括*数名*|通常包括**书名**|-|
 ||
+|第3章|111|倒数第6行|代码|*env.env.getParallelism*|**env.getParallelism**|zh0122|
+|第3章|111|倒数第3、8行|代码|*env:*|**env =**|Xingcan|
+|第3章|112|第8行|代码|*result: =*|**result =**|Xingcan|
 |第5章|97|第6行|拼写|*Labmda*函数|**Lambda**函数|Fanxi|
 ||
 |第6章|139|示例6-7第6/13行|标点|*《》*|**\"\"**|Jeff Yang|
