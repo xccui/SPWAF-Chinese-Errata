@@ -23,7 +23,9 @@
 |第5章|112|第8行|代码|~~result: =~~|**result =**|Xingcan|
 ||
 |第6章|131|倒数第14行|错别字|它通过跟踪~~至~~今为止|它通过跟踪**迄**今为止|Guihai Liu|
+|第6章|135|倒数第14行|拼写|~~getRunteimContext()~~|**getRuntimeContext()**|Yichao Yang|
 |第6章|139|示例6-7第6/13行|标点|~~《》~~|**\"\"**|Jeff Yang|
+|第6章|141|第21行|代码|~~ctx.timerService().deleteEventTimeTimer(curTimerTimestamp)~~|**ctx.timerService().deleteProcessingTimeTimer(curTimerTimestamp)**|Yichao Yang|
 ||
 |第8章|219|第13行|翻译|~~精确一次~~|**至少一次**|Mason More|
 ||
